@@ -17,7 +17,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
+            helloooo
             <code className={styles.code}>pages/index.tsx</code>
           </p>
           <div>
@@ -40,14 +40,7 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <Image
-            className={styles.logo}
-            src="/next.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
-            priority
-          />
+          <h1>APP ROUTING</h1>
         </div>
 
         <div className={styles.grid}>
